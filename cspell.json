@@ -1,0 +1,17 @@
+{
+  "version": "0.2",
+  "language": "en-GB",
+  "ignorePaths": [
+      "*.excalidraw"
+  ],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "youtube"
+  ],
+  "ignoreWords": [
+    "tabler",
+    "excalidraw",
+    "mantine"
+  ]
+}
